@@ -1,0 +1,150 @@
+/*
+Website colors:
+Main color (light green): #7FC5B8
+Secondary color (red/orange): #E37D5F
+Website fonts:
+Body font: 'Open Sans', sans-serif
+Headers font: 'Roboto', sans-serif
+*/
+
+/* Logo's button */
+
+#container0 {
+	width: 1000px
+	margin: 15px;
+}
+
+.logo {
+	height: 50px;
+}
+
+#brandlogo {
+	float: left;
+	height: 35px;
+	margin-left: 75px;
+}
+
+#avatar {
+	float: right;
+	width: 50px;
+	margin-right: 75px;
+}
+
+.header {
+	display:flex;
+	background-color: ##7FC5B8;
+}
+
+.mainbanner {
+	width: 100%;
+}
+
+.container2 {
+	margin-left: 80px
+	margin-right:80px;
+	font-size: 30px;
+	font-weight: bold;
+	height: 20px;
+}
+
+.shoppingcart{
+	float: left;
+}
+
+.add{
+	float: right;
+	background-color: white;
+	border: none;
+	padding-top: 30px;
+	color: #F1202B;
+	font-weight: bold;
+}
+
+#food {
+	float: left;
+	padding-left: 15px;
+	font-size: 20px;
+	margin-top: 0px;
+	font-size: smaller;
+}
+
+#quantity {
+	float: left;
+	padding-left: 15px;
+	font-size: 20px;
+	margin-top: 0px;
+	font-size: smaller;
+}
+
+#price {
+	float: left;
+	padding-left: 15px;
+	font-size: 20px;
+	margin-top: 0px;
+	font-size: smaller;
+}
+
+#promotion {
+	margin-left: 50px;
+	text-align: left;
+	font-size: smaller;
+}
+
+#map {
+	margin-left: 50px;
+	font-size: smaller;
+	margin-top: 50px;
+}
+
+#order_final {
+	margin-left: 50px;
+	background-color: black;
+	border: 1px #E37D5F;
+}
+
+
+
+/* White buttons of the green banner */
+
+.btn-white {
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+	margin-right: 33px;
+	display: inline;
+}
+
+.btn-white:hover {
+	background-color: #7FC5B8;
+	color: black;
+}
+
+
+body {
+	font-size: 30px;
+	margin: 10px;
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: white;
+}
+
+
+h1, h2, h3, h4, h5, h6, a {
+	font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+	margin-left: 50px;
+	margin-top: 60px;
+	font-size: 28px;
+	font-weight: bold;
+	color:#7FC5B8;
+	text-align: left;
+}
+
+h4, h5, h6 {
+	color: black;
+}
+
+
